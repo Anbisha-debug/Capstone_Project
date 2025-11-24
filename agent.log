@@ -1,0 +1,103 @@
+2025-11-21 20:01:24,905 INFO StockAgent initialized
+2025-11-21 20:01:38,643 INFO Processing query: tell me about tata
+2025-11-21 20:01:53,545 INFO Processing query: Should I buy NVDA?
+2025-11-21 20:01:53,548 INFO Calculating recommendation for I
+2025-11-21 20:01:53,551 INFO Fetching news for I
+2025-11-21 20:01:54,579 ERROR Error fetching news for I: Expecting value: line 1 column 1 (char 0)
+2025-11-21 20:01:54,580 INFO Fetching stock history for I over 1mo
+2025-11-21 20:04:50,426 INFO StockAgent initialized
+2025-11-21 20:05:00,702 INFO Processing query: tell me about tata
+2025-11-21 20:05:00,703 INFO Fetching stock price for TATA
+2025-11-21 20:05:02,757 INFO Calculating recommendation for TATA
+2025-11-21 20:05:02,758 INFO Fetching news for TATA
+2025-11-21 20:05:03,743 ERROR Error fetching news for TATA: Expecting value: line 1 column 1 (char 0)
+2025-11-21 20:05:03,744 INFO Fetching stock history for TATA over 1mo
+2025-11-21 20:07:10,222 INFO StockAgent initialized
+2025-11-21 20:07:16,331 INFO Processing query: tell me about tata
+2025-11-21 20:07:16,337 INFO Fetching stock price for TATA
+2025-11-21 20:07:18,578 INFO Calculating recommendation for TATA
+2025-11-21 20:07:18,585 INFO Fetching news for TATA
+2025-11-21 20:07:19,806 ERROR Error fetching news for TATA: Expecting value: line 1 column 1 (char 0)
+2025-11-21 20:07:19,808 INFO Fetching stock history for TATA over 1mo
+2025-11-21 20:07:36,543 INFO Processing query: TATAMOTORS.NS
+2025-11-21 20:10:51,971 INFO StockAgent initialized
+2025-11-21 20:11:01,046 INFO Processing query: tata 
+2025-11-21 20:11:41,286 INFO Processing query: tell me about tata
+2025-11-21 20:11:41,291 INFO Fetching stock price for TATA
+2025-11-21 20:11:42,349 INFO Looking up ticker for query: TATA
+2025-11-21 20:11:42,972 INFO Found ticker 0P0000NQJX.BO for query TATA
+2025-11-21 20:11:42,974 INFO Fetching stock price for 0P0000NQJX.BO
+2025-11-21 20:11:44,067 INFO Calculating recommendation for 0P0000NQJX.BO
+2025-11-21 20:11:44,067 INFO Fetching news for 0P0000NQJX.BO
+2025-11-21 20:11:44,567 ERROR Error fetching news for 0P0000NQJX.BO: Expecting value: line 1 column 1 (char 0)
+2025-11-21 20:11:44,567 INFO Fetching stock history for 0P0000NQJX.BO over 1mo
+2025-11-21 20:13:34,224 INFO StockAgent initialized
+2025-11-21 20:13:59,895 INFO Processing query: tell me about tata
+2025-11-21 20:13:59,897 INFO Fetching stock price for TATA
+2025-11-21 20:14:02,041 INFO Looking up ticker for query: TATA
+2025-11-21 20:14:03,353 INFO Found ticker TCS.NS for query TATA
+2025-11-21 20:14:03,356 INFO Fetching stock price for TCS.NS
+2025-11-21 20:14:05,216 INFO Calculating recommendation for TCS.NS
+2025-11-21 20:14:05,217 INFO Fetching news for TCS.NS
+2025-11-21 20:14:06,381 ERROR Error fetching news for TCS.NS: Expecting value: line 1 column 1 (char 0)
+2025-11-21 20:14:06,382 INFO Fetching stock history for TCS.NS over 1mo
+2025-11-21 20:14:34,243 INFO StockAgent initialized
+2025-11-21 20:14:42,277 INFO Processing query: tell me about tata
+2025-11-21 20:14:42,278 INFO Fetching stock price for TATA
+2025-11-21 20:14:44,464 INFO Looking up ticker for query: TATA
+2025-11-21 20:14:45,606 INFO Found ticker TCS.NS for query TATA
+2025-11-21 20:14:45,609 INFO Fetching stock price for TCS.NS
+2025-11-21 20:14:47,573 INFO Calculating recommendation for TCS.NS
+2025-11-21 20:14:47,575 INFO Fetching news for TCS.NS
+2025-11-21 20:14:48,583 ERROR Error fetching news for TCS.NS: Expecting value: line 1 column 1 (char 0)
+2025-11-21 20:14:48,584 INFO Fetching stock history for TCS.NS over 1mo
+2025-11-21 20:15:03,079 INFO Processing query: tell me about Tata Motors
+2025-11-21 20:15:03,082 INFO Fetching stock price for TATA
+2025-11-21 20:15:05,313 INFO Looking up ticker for query: TATA
+2025-11-21 20:15:06,550 INFO Found ticker TCS.NS for query TATA
+2025-11-21 20:15:06,552 INFO Fetching stock price for TCS.NS
+2025-11-21 20:15:08,611 INFO Calculating recommendation for TCS.NS
+2025-11-21 20:15:08,612 INFO Fetching news for TCS.NS
+2025-11-21 20:15:09,616 ERROR Error fetching news for TCS.NS: Expecting value: line 1 column 1 (char 0)
+2025-11-21 20:15:09,617 INFO Fetching stock history for TCS.NS over 1mo
+2025-11-21 20:17:52,631 INFO StockAgent initialized
+2025-11-21 20:18:03,155 INFO Processing query: tell me about tata motors
+2025-11-21 20:18:03,159 INFO Fetching stock price for tata motors
+2025-11-21 20:18:04,423 INFO Looking up ticker for query: tata motors
+2025-11-21 20:18:05,547 INFO Found ticker TMCV.NS for query tata motors
+2025-11-21 20:18:05,551 INFO Fetching stock price for TMCV.NS
+2025-11-21 20:18:06,759 INFO Calculating recommendation for TMCV.NS
+2025-11-21 20:18:06,761 INFO Fetching news for TMCV.NS
+2025-11-21 20:18:08,495 INFO Fetching stock history for TMCV.NS over 1mo
+2025-11-21 20:18:25,771 INFO Processing query: what is i sell?
+2025-11-21 20:21:23,829 INFO StockAgent initialized
+2025-11-21 20:21:34,217 INFO Processing query: tell me about tata
+2025-11-21 20:21:34,223 INFO Fetching stock price for tata
+2025-11-21 20:21:35,705 INFO Looking up ticker for query: tata
+2025-11-21 20:21:36,724 INFO Found ticker TCS.NS for query tata
+2025-11-21 20:21:36,728 INFO Fetching stock price for TCS.NS
+2025-11-21 20:21:37,873 INFO Calculating recommendation for TCS.NS
+2025-11-21 20:21:37,875 INFO Fetching news for TCS.NS
+2025-11-21 20:21:39,019 INFO Fetching stock history for TCS.NS over 1mo
+2025-11-21 20:21:53,804 INFO Processing query: what if i sell?
+2025-11-21 20:21:53,805 INFO Calculating recommendation for TCS.NS
+2025-11-21 20:21:53,805 INFO Fetching news for TCS.NS
+2025-11-21 20:21:55,061 INFO Fetching stock history for TCS.NS over 1mo
+2025-11-21 20:21:56,207 INFO Fetching stock price for TCS.NS
+2025-11-21 20:22:16,244 INFO Processing query: cool
+2025-11-21 20:22:16,245 INFO Fetching stock price for COOL
+2025-11-21 20:22:17,331 INFO Looking up ticker for query: COOL
+2025-11-21 20:22:18,468 INFO Found ticker CLCO for query COOL
+2025-11-21 20:22:18,473 INFO Fetching stock price for CLCO
+2025-11-21 20:22:28,059 INFO Processing query: no i mean thanks
+2025-11-21 20:22:28,060 INFO Fetching stock price for CLCO
+2025-11-21 20:24:59,528 INFO StockAgent initialized
+2025-11-21 20:25:09,387 INFO Processing query: tell me about tata
+2025-11-21 20:25:09,389 INFO Fetching stock price for tata
+2025-11-21 20:25:10,583 INFO Looking up ticker for query: tata
+2025-11-21 20:25:11,721 INFO Found ticker TCS.NS for query tata
+2025-11-21 20:25:11,727 INFO Fetching stock price for TCS.NS
+2025-11-21 20:25:12,822 INFO Calculating recommendation for TCS.NS
+2025-11-21 20:25:12,823 INFO Fetching news for TCS.NS
+2025-11-21 20:25:14,091 INFO Fetching stock history for TCS.NS over 1mo
+2025-11-21 20:25:24,488 INFO Processing query: thanks
